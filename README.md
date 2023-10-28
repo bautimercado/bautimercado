@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Los errores son parte del proceso de aprendizaje :sparkles: </h2></summary>
+    <summary><h2 style="display: inline-block">Los errores son parte del aprendizaje :sparkles: </h2></summary>
   </ul>
 </div>
 
@@ -45,7 +45,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bautimercado&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact"/>
   
