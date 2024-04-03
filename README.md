@@ -19,12 +19,16 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Los errores son parte del aprendizaje :sparkles: </h2></summary>
+    <!--<summary><h2 style="display: inline-block">Los errores son parte del aprendizaje :sparkles: </h2></summary>-->
   </ul>
 </div>
 
 
 <!--Intro start-->
+- 👨‍💻 **Analista Programador Universitario**
+
+- 👨‍🎓 Estudiante de **Licenciatura en Sistemas** en la **UNLP**.
+
 - 🌱 Actualmente estoy formandome como **Desarrollador Web Fullstack.**
 
 - 📫 Mi información de contacto es **mercadob267@gmail.com**
