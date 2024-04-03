@@ -29,7 +29,7 @@
 
 - 👨‍🎓 Estudiante de **Licenciatura en Sistemas** en la **UNLP**.
 
-- 🌱 Actualmente estoy formandome como **Desarrollador Web Fullstack.**
+- 🌱 Actualmente estoy formandome como **Desarrollador Web Backend.**
 
 - 📫 Mi información de contacto es **mercadob267@gmail.com**
 
