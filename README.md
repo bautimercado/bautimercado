@@ -18,41 +18,15 @@
 
 
 <!--Intro start-->
-- 👨‍💻 **Analista Programador Universitario**
-
 - 👨‍🎓 Estudiante de **Licenciatura en Sistemas** en la **UNLP**.
 
 - 🌱 Actualmente estoy formandome como **Desarrollador Web Backend.**
 
 - 📫 Mi información de contacto es **mercadob267@gmail.com**
 
+- 👨‍💻 Hace poco me recibí de **Analista Programador Universitario**
+
 <!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bautimercado&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bautimercado&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
