@@ -21,6 +21,8 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 <!--Intro end-->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yhqzeniffsmdrhneio3kxpq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yhqzeniffsmdrhneio3kxpq&redirect=true)
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
