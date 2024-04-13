@@ -4,27 +4,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola! 👋, Soy Bautista </h1></summary>
+    <summary><h1 style="display: inline-block"> Hi There! 👋, I'm Bautista Mercado </h1></summary>
   </ul>
 </div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <!--<summary><h2 style="display: inline-block">Los errores son parte del aprendizaje :sparkles: </h2></summary>-->
-  </ul>
-</div>
-
 
 <!--Intro start-->
-- 👨‍🎓 Estudiante de **Licenciatura en Sistemas** en la **UNLP**.
+- 👨‍🎓 **Bachelor in Systems** student at **UNLP**.
 
-- 🌱 Actualmente estoy formandome como **Desarrollador Web Backend.**
+- 🌱 I am currently training as **Backend Web Developer.**
 
-- 📫 Mi información de contacto es **mercadob267@gmail.com**
+- 📫 My contact information is **mercadob267@gmail.com**
 
-- 👨‍💻 Hace poco me recibí de **Analista Programador Universitario**
+- 🤓 I recently graduated from **University Programmer Analyst**
+
+I'm a passionate Computer Science student with a keen interest in software development and technology. My GitHub repository showcases some of my projects, which range from simple console applications to other more complex applications. I am always eager to collaborate with other developers and contribute to open-source projects, as I believe that teamwork and knowledge-sharing are crucial for personal and professional growth. If you have any questions, suggestions, or ideas for collaboration, feel free to reach out to me.
 
 <!--Intro end-->
 
@@ -32,7 +25,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco: 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I know: 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -47,7 +40,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conectate conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">connect with me 🤝</h2></summary>
   </ul>
 </div>
 
