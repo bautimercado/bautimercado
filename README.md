@@ -32,7 +32,7 @@ I'm a passionate Computer Science student with a keen interest in software devel
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,ruby,rails,py,django,flask,git,github,html,css,bootstrap,tailwind,js,vue,angular,docker,bash,linux,md,mysql,postgres,mongodb,postman,sqlite,vue,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,ruby,rails,py,django,flask,git,github,html,css,bootstrap,tailwind,js,vue,angular,docker,bash,linux,md,mysql,postgres,mongodb,postman,sqlite,vim,vscode&perline=14" />
   </a>
 </p>
 
