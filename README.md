@@ -13,7 +13,7 @@
 
 - 🌱 A **DevOps** by day, a **Full-Stack Developer** by night.
 
-- 🐧​ Btw i use GNU/Linux.
+- 🐧​ BTW i use GNU/Linux.
 
 - 📫 My contact information is **mercadob267@gmail.com**.
 
