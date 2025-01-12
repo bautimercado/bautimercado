@@ -30,7 +30,7 @@ Computer Science student passionate about software development and technology. O
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ruby,rails,py,django,flask,fastapi,git,html,css,bootstrap,tailwind,js,vue,docker,kubernetes,jenkins,ansible,bash,linux,md,mysql,postgres,mongodb,redis,postman,vim,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,bash,linux,aws,py,grafana,prometheus,java,spring,ruby,rails,django,flask,fastapi,git,html,css,bootstrap,tailwind,js,vue,mysql,postgres,mongodb,redis,postman&perline=14" />
   </a>
 </p>
 
