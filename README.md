@@ -4,20 +4,21 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Hi There! 👋, I'm Bautista Mercado </h1></summary>
+    <summary><h1 style="display: inline-block"> Hi There! 👋</h1></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 👨‍🎓 **Bachelor in Systems** student at **UNLP**.
+- 🎓​ **Bachelor in Systems** student at **Universidad Nacional de La Plata** and Graduated from **University Programmer Analyst** (class of 2024).
 
-- 🌱 I am currently training as **Backend Web Developer.**
+- 🌱 A **DevOps** by day, a **Full-Stack Developer** by night.
 
-- 📫 My contact information is **mercadob267@gmail.com**
+- 📫 My contact information is **mercadob267@gmail.com**.
 
-- 🤓 I recently graduated from **University Programmer Analyst**
+- 
 
-I'm a passionate Computer Science student with a keen interest in software development and technology. My GitHub repository showcases some of my projects, which range from simple console applications to other more complex applications. I am always eager to collaborate with other developers and contribute to open-source projects, as I believe that teamwork and knowledge-sharing are crucial for personal and professional growth. If you have any questions, suggestions, or ideas for collaboration, feel free to reach out to me.
+
+Computer Science student passionate about software development and technology. Open to collaboration and eager to contribute to projects 🫶🏻​
 
 <!--Intro end-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yhqzeniffsmdrhneio3kxpq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21yhqzeniffsmdrhneio3kxpq&redirect=true)
