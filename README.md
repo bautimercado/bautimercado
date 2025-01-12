@@ -13,6 +13,8 @@
 
 - 🌱 A **DevOps** by day, a **Full-Stack Developer** by night.
 
+- 🐧​ Btw i use GNU/Linux.
+
 - 📫 My contact information is **mercadob267@gmail.com**.
 
 Computer Science student passionate about software development and technology. Open to collaboration and eager to contribute to projects 🫶🏻​
