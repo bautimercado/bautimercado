@@ -15,9 +15,6 @@
 
 - 📫 My contact information is **mercadob267@gmail.com**.
 
-- 
-
-
 Computer Science student passionate about software development and technology. Open to collaboration and eager to contribute to projects 🫶🏻​
 
 <!--Intro end-->
